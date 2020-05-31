@@ -1,0 +1,9 @@
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\bin\Debug\CSharp_Task _Muhammed_Korkmaz.exe.config
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\bin\Debug\CSharp_Task _Muhammed_Korkmaz.exe
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\bin\Debug\CSharp_Task _Muhammed_Korkmaz.pdb
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task _Muhammed_Korkmaz.csprojResolveAssemblyReference.cache
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task__Muhammed_Korkmaz.Form1.resources
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task__Muhammed_Korkmaz.Properties.Resources.resources
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task _Muhammed_Korkmaz.csproj.GenerateResource.Cache
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task _Muhammed_Korkmaz.exe
+c:\users\korkmaz\documents\visual studio 2015\Projects\CSharp_Task _Muhammed_Korkmaz\CSharp_Task _Muhammed_Korkmaz\obj\Debug\CSharp_Task _Muhammed_Korkmaz.pdb
